@@ -478,7 +478,8 @@ model's creator in shader demo image/video:
 - https://i-fox.club/pcr/
 - https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
 - miHoYo - Honkai Impact 3
-- Kuro Game - Punishing: Grey Raven
+- miHoYo - Genshin Impact https://ys.biligame.com/gczj/
+- Kuro Game - Punishing: Grey Raven https://www.bilibili.com/blackboard/activity-yyfl.html, https://www.bilibili.com/blackboard/activity-ymqd.html
 - Azur Lane: Crosswave
 - Sour式鏡音リン
 - Unity-Chan
